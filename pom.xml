@@ -36,7 +36,9 @@
   </dependencies>
 
   <build>
-    <finalName>rapido_application</finalName>
+
+    <finalName>rapido_application_repository</finalName>
+
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
